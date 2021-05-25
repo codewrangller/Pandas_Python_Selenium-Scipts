@@ -1,0 +1,7 @@
+==> Pandas
+==> Chromedriver
+==> Selenium
+==> Pdfkit
+==> Openpyxl
+==> Python (3.7 or higher)
+==> wkhtmltopdf
